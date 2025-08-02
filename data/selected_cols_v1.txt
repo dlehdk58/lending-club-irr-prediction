@@ -32,7 +32,6 @@ delinq_2yrs_flag
 num_accts_ever_120_pd
 num_tl_90g_dpd_24m
 num_tl_op_past_12m
-revol_bal_log
 mths_since_recent_bc_cat
 mths_since_last_delinq_cat
 revol_bal
@@ -40,7 +39,6 @@ bc_util
 home_ownership
 tot_coll_amt
 num_il_tl
-open_acc_log
 num_bc_sats
 annual_inc
 mo_sin_rcnt_rev_tl_op
