@@ -51,7 +51,6 @@ mort_acc
 num_rev_accts
 mths_since_last_delinq
 pct_tl_nvr_dlq
-revol_util_log
 collections_12_mths_ex_med_flag
 purpose
 num_bc_tl
