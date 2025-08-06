@@ -1,0 +1,15 @@
+addr_state
+inq_last_6mths
+emp_length
+home_ownership
+purpose
+mths_since_last_delinq
+mths_since_last_major_derog
+mths_since_last_record
+mths_since_rcnt_il
+mths_since_recent_bc
+mths_since_recent_bc_dlq
+mths_since_recent_inq
+mths_since_recent_revol_delinq
+verification_status
+grade
